@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/CI/!svn/ver/50/SpringMVC/src/main/webapp/WEB-INF
+END
+data-access-confg.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/CI/!svn/ver/64/SpringMVC/src/main/webapp/WEB-INF/data-access-confg.xml
+END
+spring-security.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/CI/!svn/ver/48/SpringMVC/src/main/webapp/WEB-INF/spring-security.xml
+END
+mvc-dispatcher-servlet.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/CI/!svn/ver/48/SpringMVC/src/main/webapp/WEB-INF/mvc-dispatcher-servlet.xml
+END
+web.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/CI/!svn/ver/48/SpringMVC/src/main/webapp/WEB-INF/web.xml
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/CI/!svn/ver/51/SpringMVC/src/main/resources
+END
+data-access-confg.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/CI/!svn/ver/65/SpringMVC/src/main/resources/data-access-confg.xml
+END
+mvc-dispatcher-servlet.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/CI/!svn/ver/48/SpringMVC/src/main/resources/mvc-dispatcher-servlet.xml
+END

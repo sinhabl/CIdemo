@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 29
+/svn/CI/!svn/ver/58/SpringMVC
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/CI/!svn/ver/48/SpringMVC/.classpath
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/CI/!svn/ver/48/SpringMVC/.project
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/CI/!svn/ver/61/SpringMVC/pom.xml
+END

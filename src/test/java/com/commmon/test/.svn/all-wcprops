@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/CI/!svn/ver/57/SpringMVC/src/test/java/com/commmon/test
+END
+TestUserServiceDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/CI/!svn/ver/57/SpringMVC/src/test/java/com/commmon/test/TestUserServiceDAOImpl.java
+END
+TestHelloController.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/CI/!svn/ver/57/SpringMVC/src/test/java/com/commmon/test/TestHelloController.java
+END
